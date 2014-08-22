@@ -1,0 +1,2 @@
+﻿I copied these files from the folder where this nuget package exists. On my machine that path for this package is:
+C:\Users\ibrahim\.kpm\packages\Microsoft.Framework.CodeGenerators.Mvc\1.0.0-alpha4-10185
