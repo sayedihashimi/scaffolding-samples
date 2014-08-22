@@ -1,9 +1,10 @@
 ﻿@inherits Microsoft.Framework.CodeGeneration.Templating.RazorTemplateBase
-using System.Linq;
-using Microsoft.AspNet.Mvc;
 
 namespace @Model.NamespaceName
 {
+    using System.Linq;
+    using Microsoft.AspNet.Mvc;
+
     public class @Model.ClassName : Controller
     {
         public IActionResult Index()
